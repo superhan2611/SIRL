@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 title: Learning to Drive Using Sparse Imitation Reinforcement Learning
-authors: Yuci Han, Alper Yilmaz
+author: Yuci Han, Alper Yilmaz
 filename: SIRL
-show_downloads: true
-google_analytics:
+
