@@ -1,7 +1,3 @@
-
-
-## SIRL
-
 ![image](/fig4.png)
 
 
