@@ -4,8 +4,7 @@
 
 
 
-<iframe width="768" height="144" src=" https://youtu.be/eDBZkuJtrNg " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eDBZkuJtrNg/0.jpg)]( https://youtu.be/eDBZkuJtrNgE)
 
 
 
