@@ -1,7 +1,7 @@
 ![image](/fig4.png)
 
 ## SIRL Agent
-[video]()
+[video](https://www.youtube.com/watch?v=eDBZkuJtrNg)
 
 ```markdown
 Syntax highlighted code block
