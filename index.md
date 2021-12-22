@@ -8,7 +8,7 @@ We propose Sparse Imitation Reinforcement Learning (SIRL), a hybrid end-to-end c
 ## SIRL Agent
 
 <p align="center">
-<iframe width="280" height="157" src="https://www.youtube.com/embed/eDBZkuJtrNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="420" height="235.5" src="https://www.youtube.com/embed/eDBZkuJtrNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
