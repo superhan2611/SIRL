@@ -5,7 +5,7 @@ We propose Sparse Imitation Reinforcement Learning (SIRL), a hybrid end-to-end c
 
 
 
-## SIRL Agent
+## Driving Performance
 
 <p align="center">
 <iframe width="400" height="200" src="https://www.youtube.com/embed/3WCC4ym2ulw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -26,5 +26,9 @@ We propose Sparse Imitation Reinforcement Learning (SIRL), a hybrid end-to-end c
 <iframe width="420" height="235.5" src="https://www.youtube.com/embed/AVNrBYeQgoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+## Generalization Performance
 
+<p align="center">
+<iframe width="420" height="235.5" src="https://www.youtube.com/embed/rJpnhIsYj-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
