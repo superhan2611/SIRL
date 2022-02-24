@@ -32,4 +32,4 @@ we propose Sparse Imitation Reinforcement Learning (SIRL), a hybrid end-to-end c
 </p>
 
 ##
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=70&t=n&d=hLkeu72L7aTviFwqBKS3e9eS-PIs9chyG3am-K6Zhys'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=150&t=n&d=hLkeu72L7aTviFwqBKS3e9eS-PIs9chyG3am-K6Zhys'></script>
